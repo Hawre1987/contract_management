@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
-import frappe
 from frappe.utils import (today, flt, cint, fmt_money, formatdate,
 	getdate, add_days, add_months, get_last_day, nowdate, get_link_to_form)
 
